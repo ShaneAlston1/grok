@@ -1,4 +1,4 @@
-EVENTDATE time=(\d+)\|
+EVENTDATE time=(?<EVENTDATE>\d+)\|
 MACHINE hostname=(\S+)\|
 TECHNOLOGY product=(\w+)\|
 LAYERNAME layer_name=(\w+)\|
